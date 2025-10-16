@@ -13,8 +13,8 @@
 ### Questões do Guilherme 
 | Título | Responsável | Nível de Dificuldade | 
 | -- | -- | -- |
-| 778. Swim in Rising Water | Guilherme Maciel | Díficil |
-| 1584. Min Cost to Connect All Points | Guilherme Maciel | Medio |
+| 1402. Reducing Dishes| Guilherme Maciel | Díficil |
+| 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers | Guilherme Maciel | Medio |
 
 ### Questões do João Pedro
 | Título | Responsável | Nível de Dificuldade | 
@@ -33,13 +33,13 @@
 ![ (135. Candy)](/Imagens/Captura%20de%20tela%20de%202025-10-13%2000-14-04.png)
 
 
-### [()]()
+### [(1402. Reducing Dishes)](https://leetcode.com/problems/reducing-dishes/description/?envType=problem-list-v2&envId=greedy)
 
-![()]()
+![(1402. Reducing Dishes)]()
 
-### [()]()
+### [(689. Partitioning Into Minimum Number Of Deci-Binary Numbers)](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/description/?envType=problem-list-v2&envId=greedy)
 
-![()]() 
+![(689. Partitioning Into Minimum Number Of Deci-Binary Numbers)]() 
 
 
 ## Link do vídeo da apresentação da dupla 
@@ -75,9 +75,29 @@ Explanation: You can allocate to the first, second and third child with 2, 1, 2 
 
 ### Questão 03
 
+rode o C: 
+
+```
+Input: satisfaction = [-1,-8,0,5,-9]
+Output: 14
+Explanation: After Removing the second and last dish, the maximum total like-time coefficient will be equal to (-1*1 + 0*2 + 5*3 = 14).
+Each dish is prepared in one unit of time.
+
+
+```
 
 
 ### Questão 04
+
+rode o C: 
+
+```
+Input: n = "32"
+Output: 3
+Explanation: 10 + 11 + 11 = 32  
+
+
+```
 
 
 
@@ -86,4 +106,4 @@ Explanation: You can allocate to the first, second and third child with 2, 1, 2 
 <p>Compilador C/C++ instalado </p>
 
 
-**Linguagem**: C++ <br>
+**Linguagem**: C, C++ <br>
