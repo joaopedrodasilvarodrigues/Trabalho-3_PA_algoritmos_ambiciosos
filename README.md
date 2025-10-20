@@ -35,7 +35,7 @@
 
 ### [(1402. Reducing Dishes)](https://leetcode.com/problems/reducing-dishes/description/?envType=problem-list-v2&envId=greedy)
 
-![(1402. Reducing Dishes)]()
+![(1402. Reducing Dishes)](Imagens/dishes.png)
 
 ### [(689. Partitioning Into Minimum Number Of Deci-Binary Numbers)](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/description/?envType=problem-list-v2&envId=greedy)
 
