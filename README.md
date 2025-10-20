@@ -6,7 +6,7 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 211031074 |  |
+| 211031074 | João Pedro da Silva Rodrigues |
 | 190128160 | Guilherme Maciel de Meneses |
 
 ## Sobre 
