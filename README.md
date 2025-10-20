@@ -37,14 +37,14 @@
 
 ![(1402. Reducing Dishes)](Imagens/dishes.png)
 
-### [(689. Partitioning Into Minimum Number Of Deci-Binary Numbers)](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/description/?envType=problem-list-v2&envId=greedy)
+### [(1689. Partitioning Into Minimum Number Of Deci-Binary Numbers)](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/description/?envType=problem-list-v2&envId=greedy)
 
-![(689. Partitioning Into Minimum Number Of Deci-Binary Numbers)](Imagens/deciBina.png) 
+![(1689. Partitioning Into Minimum Number Of Deci-Binary Numbers)](Imagens/deciBina.png) 
 
 
 ## Link do vídeo da apresentação da dupla 
 
-[(Link do Vídeo)]()
+[(Link do Vídeo)](https://youtu.be/QxMIxEWsaZM)
 
 
 ## Guia de execução
